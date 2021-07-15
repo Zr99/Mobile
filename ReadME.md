@@ -1,5 +1,4 @@
-# Simple Android Graphic Interface
-___
+# Simple Android Graphic Interface - (Android Studio)
 ## This project has three objectives: 
 * successfully create the Android application,
 * use Git from within Android Studio
